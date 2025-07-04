@@ -14,8 +14,21 @@ To build a dashboard using Excel that answers critical questions like:
   The dataset was scraped from Amazon product pages including information such as:
   1. Product details (name, category, price, discount and ratings)
   2. Customer engagement (user review, titles, and content)
-    Each row represents a unique product with aggregated reviewvr data, stored as comma-separated values.
+  - Each row represents a unique product with aggregated reviewer data, stored as comma-separated values.
   #### Data Cleaning
+  - Columns that were not needed were removed.
+  - Calculated columns were added such as potential revenue per category, rating range, discount percentage bucket.
+  #### Visualization
+  - Pivot tables were created using the columns on the data table.
+  - The dashboard was created from the Pivot Tables.
+### Insights
+  The Pivot tables and dashboard revealed the following:
+  - The number of products having a discount of 50% or more was 751, which was quite high compared to the total number of unique products.
+  - High discounts did not necessarily result in high rating.
+  - Products having reviews less than 1000 was 328; this reveals that such products need to be improved upon for more customer engagement to help in increasing its sales.
+### Recommendations
+1. Products with discounts of 50% or more should be reduced.
+2. Improved marketimg strategies should be put in place for products, especially those with less reviews.
   
 
   
