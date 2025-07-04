@@ -21,7 +21,7 @@ To build a dashboard using Excel that answers critical questions like:
   #### Visualization
   - Pivot tables were created using the columns on the data table.
   - The dashboard was created from the Pivot Tables.
-  #### Expository Data Analysis
+  #### Exploratory Data Analysis
   1. What is the average discount percentage by product category?
   2. What is the total number of reviews per category?
   3. What is the average actual price vs the discounted price per category?
