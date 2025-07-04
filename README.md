@@ -29,6 +29,8 @@ To build a dashboard using Excel that answers critical questions like:
 ### Recommendations
 1. Products with discounts of 50% or more should be reduced.
 2. Improved marketimg strategies should be put in place for products, especially those with less reviews.
-  
+### Dashboard Preview 
+![image](https://github.com/user-attachments/assets/e8fac055-5634-4aff-8212-e030f5e8fc46)
+
 
   
