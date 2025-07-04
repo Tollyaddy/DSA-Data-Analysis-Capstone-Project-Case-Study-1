@@ -21,9 +21,15 @@ To build a dashboard using Excel that answers critical questions like:
   #### Visualization
   - Pivot tables were created using the columns on the data table.
   - The dashboard was created from the Pivot Tables.
+  #### Expository Data Analysis
+  1. What is the average discount percentage by product category?
+  2. What is the total number of reviews per category?
+  3. What is the average actual price vs the discounted price per category?
+  4. How many products have fewer than 1,000 reviews?
+  5. Which categories have products wth the highest discounts?
 ### Insights
   The Pivot tables and dashboard revealed the following:
-  - The number of products having a discount of 50% or more was 751, which was quite high compared to the total number of unique products.
+  - The number of products having a discount of 50% or more was 751, which was quite high compared to the total number of unique   products.
   - High discounts did not necessarily result in high rating.
   - Products having reviews less than 1000 was 328; this reveals that such products need to be improved upon for more customer engagement to help in increasing its sales.
 ### Recommendations
