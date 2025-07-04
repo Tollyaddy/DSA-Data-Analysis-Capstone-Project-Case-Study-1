@@ -31,6 +31,9 @@ To build a dashboard using Excel that answers critical questions like:
 2. Improved marketimg strategies should be put in place for products, especially those with less reviews.
 ### Dashboard Preview 
 ![image](https://github.com/user-attachments/assets/b937bb0d-a628-4bf9-a758-1ae4a6093aeb)
+### Author
+**Oluwatola Deborah Akeredolu**
+
 
 
 
