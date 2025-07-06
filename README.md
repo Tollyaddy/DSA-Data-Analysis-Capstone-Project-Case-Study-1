@@ -29,12 +29,13 @@ To build a dashboard using Excel that answers critical questions like:
   5. Which categories have products wth the highest discounts?
 ### Insights
   The Pivot tables and dashboard revealed the following:
-  - The number of products having a discount of 50% or more was 751, which was quite high compared to the total number of unique   products.
-  - High discounts did not necessarily result in high rating.
+  - The top 5 products in terms of rating and number of reviews combined, showing high sales volume and strong customer engagement.
+  - The number of products having a discount of 50% or more was 751, which was quite high compared to the total number of unique products; high discounts did not necessarily result in high rating.
   - Products having reviews less than 1000 was 328; this reveals that such products need to be improved upon for more customer engagement to help in increasing its sales.
 ### Recommendations
-1. Products with discounts of 50% or more should be reduced.
-2. Improved marketimg strategies should be put in place for products, especially those with less reviews.
+1. Products with a large number of reviews could be maintained for brand focus and marketing strategies.
+2. Products with discounts of 50% or more should be reduced.
+3. Improved marketimg strategies should be put in place for products, especially those with less reviews.
 ### Dashboard Preview 
 ![image](https://github.com/user-attachments/assets/b937bb0d-a628-4bf9-a758-1ae4a6093aeb)
 ### Author
