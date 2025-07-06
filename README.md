@@ -29,17 +29,19 @@ To build a dashboard using Excel that answers critical questions like:
   5. Which categories have products wth the highest discounts?
 ### Insights
   The Pivot tables and dashboard revealed the following:
-  - The top 5 products in terms of rating and number of reviews combined, showing high sales volume and strong customer engagement.
-  - The number of products having a discount of 50% or more was 751, which was quite high compared to the total number of unique products; high discounts did not necessarily result in high rating.
-  - Products having reviews less than 1000 was 328; this reveals that such products need to be improved upon for more customer engagement to help in increasing its sales.
+  - The top 5 products in terms of rating and number of reviews combined, means high sales volume and strong customer engagement.
+  - The number of products having a discount of 50% or more was 751, which was quite high compared to the total number of unique products. High discounts did not necessarily result in high rating, yet some highly rated products also came with high discounts.
+  - Products having reviews less than 1000 was 328; this reveals that such products need to be improved upon for more customer engagement to help in increasing its sales while customer engagement could be increased through e-mail follow-ups and incentives.
 ### Recommendations
 1. Products with a large number of reviews could be maintained for brand focus and marketing strategies.
-2. Products with discounts of 50% or more should be reduced.
-3. Improved marketimg strategies should be put in place for products, especially those with less reviews.
+2. Products that fall within the highest distribution of product ratings such as 4.1-5, could be used as testimonials and influencers, while the lower ones,especially 1-2, 2.1-3, could be improved upon in packaging, delivery or after-sales services, etc.
+3. Products with discounts of 50% or more should also be reduced to avoid perceived lower quality of such; yet it could be leveraged upon to emphasize premium quality at less cost and promote urgency (limited-time deal). Overall, discount level should be used with caution whereby value is balanced with quality and positioned strategically.
+4. Improved marketimg strategies should be put in place for products, especially those with less reviews having high ratings.
 ### Dashboard Preview 
 ![image](https://github.com/user-attachments/assets/b937bb0d-a628-4bf9-a758-1ae4a6093aeb)
 ### Author
-**Oluwatola Deborah Akeredolu**
+**Oluwatola Deborah Akeredolu**,
+Data Analyst and Database Administrator in view
 
 
 
